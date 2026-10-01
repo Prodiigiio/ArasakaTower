@@ -43,6 +43,8 @@ in
         qbittorrent
 
 	jetbrains.idea-ultimate
+
+	rPackages.RobLox
     ];
 
     programs.git = {
