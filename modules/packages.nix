@@ -42,7 +42,7 @@ in
         libreoffice-fresh
         qbittorrent
 
-	jetbrains.idea-ultimate
+	jetbrains.idea
 
 	rPackages.RobLox
 
