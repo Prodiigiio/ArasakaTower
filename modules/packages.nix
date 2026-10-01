@@ -39,7 +39,7 @@ in
         bat
 
         keepassxc
-        libreoffice-fresh
+        libreoffice
         qbittorrent
 
 	jetbrains.idea
