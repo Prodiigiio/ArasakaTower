@@ -45,6 +45,8 @@ in
 	jetbrains.idea-ultimate
 
 	rPackages.RobLox
+
+	discord
     ];
 
     programs.git = {
