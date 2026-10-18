@@ -10,5 +10,5 @@
     };
 
     boot.plymouth.enable = true;
-    boot.kernelParams = [ "quiet" "splash" ];
+    boot.kernelParams = [ "quiet" "splash" "amdgpu.ppfeaturemask=0xffffffff" ];
 }
